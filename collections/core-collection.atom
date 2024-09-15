@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://diyacandleco.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://diyacandleco.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://diyacandleco.com/collections/core-collection.atom"/>
+  <title>Diya Candle Co</title>
+  <updated>2021-11-09T16:52:15-08:00</updated>
+  <author>
+    <name>Diya Candle Co</name>
+  </author>
+  <entry>
+    <id>https://diyacandleco.com/products/6966948135088</id>
+    <published>2021-11-09T16:52:15-08:00</published>
+    <updated>2021-11-09T16:52:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://diyacandleco.com/products/apple-harvest"/>
+    <title>Apple Harvest</title>
+    <s:type></s:type>
+    <s:vendor>Diya Candle Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/9257/5152/products/AppleHarvest_B_M.jpg?v=1644953442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diya Candle Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Apple ⋅ Cinnamon ⋅ Coconut</strong></p>
+<p>Settle in for apple pie after Thanksgiving dinner with this sweet candle with a hint of spice and smooth coconut.</p>
+<p>As the candle burns you'll immediately pick out notes of apple and cinnamon. As the wax melt pool expands outward notice how the notes mellow out as coconut and bamboo enter your palette.</p>
+<p> </p>
+<p><strong>Scent Notes</strong></p>
+<p><span style="font-weight: 400;">Top: Apple ⋅ Cinnamon</span></p>
+<p><span style="font-weight: 400;">Middle: Coconut ⋅ Orange Peel</span></p>
+<p><span style="font-weight: 400;">Base: Bamboo ⋅ Spearmint</span></p>
+<p> </p>
+<p><span>8oz (220g)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://diyacandleco.com/products/6966948135088</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>AH_08</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://diyacandleco.com/products/6966933520560</id>
+    <published>2021-11-09T16:47:01-08:00</published>
+    <updated>2021-11-09T16:47:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://diyacandleco.com/products/midnight-cologne"/>
+    <title>Midnight Cologne</title>
+    <s:type></s:type>
+    <s:vendor>Diya Candle Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/9257/5152/products/MidnightCologne_B_M.jpg?v=1644953448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diya Candle Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Camphor ⋅ Sandalwood ⋅ Dark Musk</strong></p>
+<p>We married high end cologne and warm sandalwood for a balanced aquatic and musky experience.</p>
+<p>The perfect date night candle.</p>
+<p> </p>
+<p><strong>Scent Notes</strong></p>
+<p><span style="font-weight: 400;">Top: Sandalwood ⋅ Marine</span></p>
+<p><span style="font-weight: 400;">Middle: Amyris ⋅ Bamboo</span></p>
+<p><span style="font-weight: 400;">Base: Cedar ⋅ Dark Musk</span></p>
+<p> </p>
+<p><span>8oz (220g)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://diyacandleco.com/products/6966933520560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>MC_08</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://diyacandleco.com/products/6966928375984</id>
+    <published>2021-11-09T16:41:49-08:00</published>
+    <updated>2021-11-09T16:41:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://diyacandleco.com/products/lotus-spa"/>
+    <title>Lotus Spa</title>
+    <s:type></s:type>
+    <s:vendor>Diya Candle Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/9257/5152/products/LotusSpa_B_M.jpg?v=1644953457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diya Candle Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Neroli ⋅ Jasmine ⋅ Teakwood</strong></p>
+<p>Be transported to the spa with this fresh floral candle balanced with warm tropical teakwood.</p>
+<p>As the fragrance burns you'll immediately notice complex floral notes of jasmine, neroli, and green leaves. As the temperature rise you'll find balance with a hint of spice and warmth from strong Caribbean Teakwood.</p>
+<p data-mce-fragment="1"> </p>
+<p><strong>Scent Notes</strong></p>
+<p><span style="font-weight: 400;">Top: Jasmine ⋅ Teakwood</span></p>
+<p><span style="font-weight: 400;">Middle: Neroli ⋅ Green Leaves</span></p>
+<p><span style="font-weight: 400;">Base: Peppercorn ⋅ Amber</span></p>
+<p> </p>
+<p><span>8oz (220g)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://diyacandleco.com/products/6966928375984</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>LS_08</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://diyacandleco.com/products/6822809632944</id>
+    <published>2021-10-20T15:13:59-07:00</published>
+    <updated>2021-10-20T15:13:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://diyacandleco.com/products/monsoon-garden"/>
+    <title>Monsoon Garden</title>
+    <s:type></s:type>
+    <s:vendor>Diya Candle Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/9257/5152/products/MoonsoonGarden_B_M.jpg?v=1644953452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diya Candle Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rose Petals ⋅ Camphor ⋅ Green Leaves</strong></p>
+<p><span style="font-weight: 400;">Stumble into a rose garden in the middle of a rain forest.</span></p>
+<p><span style="font-weight: 400;">As the candle fills out your room you'll notice the smell of rose balanced out with bamboo and dark musk. </span></p>
+<p><span style="font-weight: 400;">A floral scent for day and night.</span></p>
+<p data-mce-fragment="1"> </p>
+<p><strong>Scent Notes</strong></p>
+<p><span style="font-weight: 400;">Top: Rose Petals ⋅ Marine</span></p>
+<p><span style="font-weight: 400;">Middle: Ylang Ylang ⋅ Lavender</span></p>
+<p><span style="font-weight: 400;">Base: Peppercorn ⋅ Amber</span></p>
+<p> </p>
+<p>8oz (220g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://diyacandleco.com/products/6822809632944</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>MG_08</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>
